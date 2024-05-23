@@ -12,7 +12,7 @@ This C++ program allows users to set the size of a file to a specified size in k
 
 - Visual Studio with C++ development tools installed.
 
-## Setup and Usage
+## Example Usage
 
 Enter the file: C:\Users\blackman.txt
 Enter the size in KB: 69
