@@ -22,4 +22,4 @@ Enter the size in KB: 69
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/0x001c/File-KB-changer.git
